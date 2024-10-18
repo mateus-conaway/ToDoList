@@ -29,6 +29,10 @@ Run the program by typing ***java Main*** in the terminal while located in the s
 
 Once the program is started, enter the number associated with the command next to each command prompt. Follow the instructions following once you enter the command.
 
+**Next Steps of Development**
+
+The next step for me is to create a graphical user interface to complement this project. This will allow for a cleaner look and easier readability for the user. The user will be able to click a button to type in a task description, and a task list will be visible from the start of the program with a checkbox next to it for easier management of completing tasks. This may also be paired with an SQL database.
+
 ##
 ***Created by Mateus Conaway***
 
