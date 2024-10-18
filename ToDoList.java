@@ -38,7 +38,7 @@ public class ToDoList {
         int id;
         System.out.println("Enter ID of Finished Task: ");
         id = scanner.nextInt();
-        if (id >= taskList.size() || id == 0) {
+        if (id > taskList.size() || id == 0) {
             System.out.println("Task ID out of range");
         }
         for (Task task : taskList) {
